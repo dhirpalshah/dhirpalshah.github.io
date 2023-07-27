@@ -22,7 +22,7 @@ facebook_username: dhirpal.shah #<-- your facebook username (the part after "htt
 # google_analytics: <-- your google analytics Tracking ID
 
 # By declaring these variables, you can include a button that links to an external website or to media.
-about_button: https://github.com/saragong/hello # the link
+about_button: https://drive.google.com/file/d/1x_wFUwFSoFfOUpNlD9QLQBFR7drNjAEG/view?usp=sharing # the link
 about_button_label: my resume # the label on the button
 
 # optional portfolio section ------------------------------------------
