@@ -30,7 +30,7 @@ about_button_label: my resume # the label on the button
 # By declaring these variables, you can include a portfolio showcasing your work and organize your portfolio's items into a custom layout, all without adding any CSS. In addition, you must 1) create an HTML file in the_includes folder for each project with the text you'd like to display, and 2) create a YAML file in the _data folder describing the order in which each project should be shown and categorized. See `/includes/example.html` and `/_data/work.yml` for examples.
 
 portfolio: work # the heading for your portfolio and title of your YAML file
-portfolio_description: you can include a portfolio showcasing your work and organize your portfolio's items into a custom layout, all without adding any CSS. # a description to be desplayed below the heading and above the content
+portfolio_description: here are some things i've been a part of recently, both technical and nontechnical. Enjoy! # a description to be desplayed below the heading and above the content
 
 
 
@@ -38,10 +38,10 @@ portfolio_description: you can include a portfolio showcasing your work and orga
 # optional CTA section --------------------------------------------------
 
 # By declaring these variables, you can include a CTA section.
-cta: connect # the heading for your CTA section
-cta_description: questions, comments, or concerns? please don't hesitate to reach out. # a description to be desplayed below the heading and above the content
+cta: contact me # the heading for your CTA section
+cta_description: don't hesitate to reach out if you'd like to connect! # a description to be desplayed below the heading and above the content
 cta_button: mailto:dhirpalshah@uchicago.edu # a link to an external website or to media
-cta_button_label: contact # the label on the button
+cta_button_label: email me # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
@@ -54,5 +54,3 @@ i'm a double major in **Computer Science** and **Economics**. I'm pretty interes
 i was born in **Gujarat** and spent my whole life in **Taipei** before coming to **Chicago** for college. It gets pretty confusing at times (even for me!), but I wouldn't have it any other way - it's certainly taught me how to be open to new experiences and have a fresh outlook on life (so much so that I gave a [TEDx](https://www.youtube.com/watch?v=SffU682E8Zg&pp=ygUMZGhpcnBhbCBzaGFo) talk on it in high school)!
   
 On this website you'll find some experiences I've had growing up - feel free to take a look! My resume is also below.
-
-Btw, I did not make this website on my own! **hello** is adapted from [Sara Gong's work](https://github.com/saragong/hello), so a huge thanks to them!

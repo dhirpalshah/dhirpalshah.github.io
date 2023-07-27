@@ -2,17 +2,17 @@
 # in the root directory
 
 work:
-  - category: New York City
+  - category: Technical Experience
     items:
-      - item: example.html
-        image: /images/NYC1.jpg # optionally, include the file path for an image for each item
+      - item: infleqtion.html
+        image: /images/infleqtion.jpeg # optionally, include the file path for an image for each item
       - item: example.html
         image: /images/NYC2.jpg
       - item: example2.html
         image: /images/NYC3.jpg
       - item: example3.html
         image: /images/NYC4.jpg
-  - category: Los Angeles
+  - category: Other Activities
     items:
       - item: example.html
         image: /images/LA1.jpg
