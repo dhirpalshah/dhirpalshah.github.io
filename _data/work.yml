@@ -9,7 +9,7 @@ work:
       - item: tradingcomp.html
         image: /images/tradingcomp.jpeg
       - item: darwin.html
-        image: /images/darwin.jpg
+        image: /images/darwin.jpeg
       - item: melio.html
         image: /images/melio.jpeg
   - category: Portfolio
