@@ -6,7 +6,7 @@ layout: hello-default
 # these variables are required -------------------------------
 banner_title: hi! i'm dhirpal shah
 banner_subtitle: this is a little website about me :)
-background_image: /images/background.jpeg
+background_image: /images/bannerpic.jpeg
 
 # all of the following variables are optional -----------------
 page_url: /hello # only include this variable if you aren't building the page to your primary domain 
@@ -32,19 +32,21 @@ about_button_label: get hello # the label on the button
 portfolio: work # the heading for your portfolio and title of your YAML file
 portfolio_description: you can include a portfolio showcasing your work and organize your portfolio's items into a custom layout, all without adding any CSS. # a description to be desplayed below the heading and above the content
 
+
+
 # optional CTA section --------------------------------------------------
 
 # By declaring these variables, you can include a CTA section.
 cta: connect # the heading for your CTA section
 cta_description: questions, comments, or concerns? please don't hesitate to reach out. # a description to be desplayed below the heading and above the content
-cta_button: mailto:saragong@usc.edu # a link to an external website or to media
+cta_button: mailto:dhirpalshah@uchicago.edu # a link to an external website or to media
 cta_button_label: contact # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
-### why **hello**?  
+### hello!
 
-### **hello** has a simple goal: to make GitHub Pages accessible to everyone.  
+### i am **dhirpal**, a rising third year at the **University of Chicago**.  
   
 **hello** is a minimalist template that lets you design a beautiful website or portfolio on GitHub Pages - without installing a Ruby
 development environment, learning to use Jekyll, **or even typing a single line of code**. It's ideal for GitHubbers
