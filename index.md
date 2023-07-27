@@ -4,7 +4,7 @@ layout: hello-default
 # using Markdown language, you can customize the following variables!
 
 # these variables are required -------------------------------
-banner_title: hi! i'm dhirpal shah (bannerpic2)
+banner_title: hi! i'm dhirpal shah
 banner_subtitle: this is a little website about me :)
 background_image: /images/bannerpic2.jpeg
 
