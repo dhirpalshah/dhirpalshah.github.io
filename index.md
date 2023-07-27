@@ -46,7 +46,7 @@ cta_button_label: contact # the label on the button
 [//]: # (write a bit about yourself here)
 ### hello!
 
-### i am **dhirpal**, a rising third year at the **University of Chicago**.  
+### i am **dhirpal**, a third year at the **University of Chicago**.  
   
 **hello** is a minimalist template that lets you design a beautiful website or portfolio on GitHub Pages - without installing a Ruby
 development environment, learning to use Jekyll, **or even typing a single line of code**. It's ideal for GitHubbers
