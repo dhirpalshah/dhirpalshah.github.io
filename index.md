@@ -15,15 +15,15 @@ page_url: /hello # only include this variable if you aren't building the page to
 favicon: /assets/ico/favicon.ico
 
 # social media
-twitter_username: notsaragong # # your twitter handle
-github_username:  saragong # your github username
-linkedin: saragong # the part after ("https://www.linkedin.com/in/...")
-# facebook_username: <-- your facebook username (the part after "https://www.facebook.com/...")
+twitter_username: DhirpalShah # # your twitter handle
+github_username:  dhirpalshah # your github username
+linkedin: dhirpalshah # the part after ("https://www.linkedin.com/in/...")
+facebook_username: dhirpal.shah <-- your facebook username (the part after "https://www.facebook.com/...")
 # google_analytics: <-- your google analytics Tracking ID
 
 # By declaring these variables, you can include a button that links to an external website or to media.
 about_button: https://github.com/saragong/hello # the link
-about_button_label: get hello # the label on the button
+about_button_label: my resume # the label on the button
 
 # optional portfolio section ------------------------------------------
 
@@ -31,6 +31,7 @@ about_button_label: get hello # the label on the button
 
 portfolio: work # the heading for your portfolio and title of your YAML file
 portfolio_description: you can include a portfolio showcasing your work and organize your portfolio's items into a custom layout, all without adding any CSS. # a description to be desplayed below the heading and above the content
+
 
 
 
