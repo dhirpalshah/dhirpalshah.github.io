@@ -17,8 +17,8 @@ favicon: /assets/ico/favicon.ico
 # social media
 twitter_username: DhirpalShah # # your twitter handle
 github_username:  dhirpalshah # your github username
-linkedin: dhirpalshah # the part after ("https://www.linkedin.com/in/...")
-facebook_username: dhirpal.shah <-- your facebook username (the part after "https://www.facebook.com/...")
+linkedin: dhirpal-shah # the part after ("https://www.linkedin.com/in/...")
+facebook_username: dhirpal.shah #<-- your facebook username (the part after "https://www.facebook.com/...")
 # google_analytics: <-- your google analytics Tracking ID
 
 # By declaring these variables, you can include a button that links to an external website or to media.
@@ -47,14 +47,12 @@ cta_button_label: contact # the label on the button
 [//]: # (write a bit about yourself here)
 ### hello!
 
-### i am **dhirpal**, a third year at the **University of Chicago**.  
+### i am **Dhirpal**, a third year at the **University of Chicago**.  
   
-**hello** is a minimalist template that lets you design a beautiful website or portfolio on GitHub Pages - without installing a Ruby
-development environment, learning to use Jekyll, **or even typing a single line of code**. It's ideal for GitHubbers
-who want to start building their personal website on [GitHub Pages](https://pages.github.com/), but maybe aren't so familiar with web development.
+i'm a double major in **Computer Science** and **Economics**. I'm pretty interested in **software engineering**, the intersection between **tech and finance**, and more recently, the field of **quantum computing**. I am also a goalkeeper on the **NCAA UChicago Mens Soccer Team**.
+
+i was born in **Gujarat** and spent my whole life in **Taipei** before coming to **Chicago** for college. It gets pretty confusing at times (even for me!), but I wouldn't have it any other way - it's certainly taught me how to be open to new experiences and have a fresh outlook on life (so much so that I gave a [TEDx](https://www.youtube.com/watch?v=SffU682E8Zg&pp=ygUMZGhpcnBhbCBzaGFo) talk on it in high school)!
   
+On this website you'll find some experiences I've had growing up - feel free to take a look! My resume is also below.
 
-The default layout of **hello** is a streamlined single page with three major customizable sections: a required "about" section, an optional portfolio, and an optional CTA. Using [Liquid](https://shopify.github.io/liquid/) variables declared by in the config and index files, **hello** offers an easy-to-use design where all customizations necessary for a basic personal website can be written in [Markdown](https://www.markdownguide.org/basic-syntax/).  
-
-
-**hello** is adapted from [Twenty](https://html5up.net/twenty), a responsive, mobile-friendly theme by HTML5 Up.
+Btw, I did not make this website on my own! **hello** is adapted from [Sara Gong's work](https://github.com/saragong/hello), so a huge thanks to them!
