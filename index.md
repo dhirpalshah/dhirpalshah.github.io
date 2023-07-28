@@ -49,7 +49,7 @@ cta_button_label: email me # the label on the button
 
 ### i am **Dhirpal**, a third year at the **University of Chicago**.  
   
-i'm a double major in **Computer Science** and **Economics**. I'm pretty interested in **software engineering**, the intersection between **tech and finance**, and more recently, the field of **quantum computing**. I am also a goalkeeper on the **NCAA UChicago Mens Soccer Team**.
+i'm a double major in [**Computer Science**](https://github.com/dhirpalshah/projects) and **Economics**. I'm pretty interested in **software engineering**, the intersection between **tech and finance**, and more recently, the field of **quantum computing**. I am also a goalkeeper on the **NCAA UChicago Mens Soccer Team**.
 
 i was born in **Gujarat** and spent my whole life in **Taipei** before coming to **Chicago** for college. It gets pretty confusing at times (even for me!), but I wouldn't have it any other way - it's certainly taught me how to be open to new experiences and have a fresh outlook on life (so much so that I gave a [TEDx](https://www.youtube.com/watch?v=SffU682E8Zg&pp=ygUMZGhpcnBhbCBzaGFo) talk on it in high school)!
   
