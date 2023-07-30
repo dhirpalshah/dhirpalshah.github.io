@@ -11,7 +11,7 @@ work:
       - item: darwin.html
         image: /images/darwin.jpeg
       - item: melio.html
-        image: /images/melio.jpeg
+        image: /images/melio2.jpeg
   - category: Portfolio
     items:
       - item: visualization.html
