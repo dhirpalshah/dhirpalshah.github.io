@@ -24,11 +24,11 @@ work:
         image: /images/sudoku.jpeg
   - category: Other Activities
     items:
-      - item: example.html
+      - item: soccer.html
         image: /images/LA1.jpg
-      - item: example.html
+      - item: bookstagram.html
         image: /images/LA2.jpg
-      - item: example2.html
+      - item: RA.html
         image: /images/LA3.jpg
-      - item: example3.html
+      - item: h2h.html
         image: /images/LA4.jpg
