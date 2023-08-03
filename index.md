@@ -49,8 +49,8 @@ cta_button_label: email me # the label on the button
 
 ### i am **Dhirpal**, a third year at the **University of Chicago**.  
   
-i'm a double major in [**Computer Science**](https://github.com/dhirpalshah/projects) and **Economics**. I'm pretty interested in **software engineering**, the intersection between **tech and finance**, and more recently, the field of **quantum computing**. I am also a goalkeeper on the **NCAA UChicago Mens Soccer Team**.
+i'm a double major in [**computer science**](https://github.com/dhirpalshah/projects) and **economics**. i'm pretty interested in **software engineering**, the intersection between **tech and finance**, and more recently, the field of **quantum computing**. i am also a goalkeeper on the **NCAA UChicago Men's Soccer Team**.
 
-i was born in **Gujarat** and spent my whole life in **Taipei** before coming to **Chicago** for college. It gets pretty confusing at times (even for me!), but I wouldn't have it any other way - it's certainly taught me how to be open to new experiences and have a fresh outlook on life (so much so that I gave a [TEDx](https://www.youtube.com/watch?v=SffU682E8Zg&pp=ygUMZGhpcnBhbCBzaGFo) talk on it in high school)!
+i was born in **Gujarat** and spent my whole life in **Taipei** before coming to **Chicago** for college. it gets pretty confusing at times (even for me!), but i wouldn't have it any other way - it's certainly taught me how to be open to new experiences and have a fresh outlook on life (so much so that i gave a [TEDx](https://www.youtube.com/watch?v=SffU682E8Zg&pp=ygUMZGhpcnBhbCBzaGFo) talk on it in high school)!
   
-On this website you'll find some experiences I've had growing up - feel free to take a look! My resume is also below.
+on this website you'll find some experiences i've had growing up - feel free to take a look! my resume is also below.
