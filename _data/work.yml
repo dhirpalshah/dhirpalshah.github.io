@@ -25,10 +25,10 @@ work:
   - category: Other Activities
     items:
       - item: soccer.html
-        image: /images/LA1.jpg
+        image: /images/football.jpeg
       - item: bookstagram.html
-        image: /images/LA2.jpg
+        image: /images/bookstagram.jpeg
       - item: RA.html
-        image: /images/LA3.jpg
+        image: /images/RA.jpeg
       - item: h2h.html
-        image: /images/LA4.jpg
+        image: /images/h2h.jpeg
