@@ -10,7 +10,7 @@ We address the challenges associated with deploying neural networks on CPUs, wit
 
 ## **Applicability of Clay/Organic Clay to Environmental Pollutants: Green Way—An Overview**
 
-### JingFan Qi, Jiacheng Yu, Kinjal J. Shah, Dhirpal D. Shah and Zhaoyang You
+### JingFan Qi, Jiacheng Yu, Kinjal J. Shah, Dhirpal D. Shah, and Zhaoyang You
 
 *Appl. Sci. 2023, 13, 9395.* https://doi.org/10.3390/app13169395
 
