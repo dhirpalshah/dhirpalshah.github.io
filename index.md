@@ -32,9 +32,6 @@ about_button_label: my resume # the label on the button
 portfolio: work # the heading for your portfolio and title of your YAML file
 portfolio_description: here are some things i've been a part of recently, both technical and nontechnical. Enjoy! # a description to be desplayed below the heading and above the content
 
-
-
-
 # optional CTA section --------------------------------------------------
 
 # By declaring these variables, you can include a CTA section.
@@ -49,8 +46,8 @@ cta_button_label: email me # the label on the button
 
 ### i am **Dhirpal**, a third year at the **University of Chicago**.  
   
-i'm a double major in [**computer science**](https://github.com/dhirpalshah/projects) and **economics**. i'm pretty interested in **software engineering**, the intersection between **tech and finance**, and more recently, the field of **quantum computing**. i am also a goalkeeper on the **NCAA UChicago Men's Soccer Team**.
+i'm a double major in [**computer science**](https://github.com/dhirpalshah/projects){:target="_blank"} and **economics**. i'm pretty interested in **software engineering**, the intersection between **tech and finance**, and more recently, the field of **quantum computing**. i am also a goalkeeper on the **NCAA UChicago Men's Soccer Team**.
 
-i was born in **Gujarat** and spent my whole life in **Taipei** before coming to **Chicago** for college. it gets pretty confusing at times (even for me!), but i wouldn't have it any other way - it's certainly taught me how to be open to new experiences and have a fresh outlook on life (so much so that i gave a [TEDx](https://www.youtube.com/watch?v=SffU682E8Zg&pp=ygUMZGhpcnBhbCBzaGFo) talk on it in high school)!
+i was born in **Gujarat** and spent my whole life in **Taipei** before coming to **Chicago** for college. it gets pretty confusing at times (even for me!), but i wouldn't have it any other way - it's certainly taught me how to be open to new experiences and have a fresh outlook on life (so much so that i gave a [TEDx](https://www.youtube.com/watch?v=SffU682E8Zg&pp=ygUMZGhpcnBhbCBzaGFo){:target="_blank"} talk on it in high school)!
   
 on this website you'll find some experiences i've had growing up - feel free to take a look! my resume is also below.
