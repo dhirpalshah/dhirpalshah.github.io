@@ -1,7 +1,7 @@
 # Publications
 ## **Circuit decompositions and scheduling for neutral atom devices with limited local addressibility**
 
-### Natalia Nottingham, Michael Perlin, Dhirpal Shah, Ryan White, Hannes Bernien, Frederic Chong, Jonathan Baker
+### Natalia Nottingham, Michael Perlin, Dhirpal Shah, Ryan White, Hannes Bernien, Frederic Chong, and Jonathan Baker
 
 *IEEE International Conference on Quantum Computing and Engineering (QCE) - Under Revision, 2024*
 
