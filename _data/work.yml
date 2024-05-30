@@ -4,10 +4,10 @@
 work:
   - category: Experiences
     items:
+      - item: sponsu.html
+        image: /images/sponsu.jpeg
       - item: infleqtion.html
         image: /images/infleqtion1.jpeg # optionally, include the file path for an image for each item
-      - item: tradingcomp.html
-        image: /images/tradingcomp.jpeg
       - item: darwin.html
         image: /images/darwin.jpeg
       - item: melio.html
