@@ -14,6 +14,8 @@ work:
         image: /images/melio2.jpeg
   - category: Portfolio
     items:
+      - item: sudoku.html
+        image: /images/sudoku.jpeg
       - item: coursebuddy.html
         image: /images/coursebuddy.jpeg
       - item: qcescheduling.html
@@ -24,8 +26,6 @@ work:
         image: /images/ylab.jpeg
       - item: xg.html
         image: /images/xg.jpeg
-      - item: sudoku.html
-        image: /images/sudoku.jpeg
   - category: Other Activities
     items:
       - item: soccer.html
