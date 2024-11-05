@@ -22,7 +22,7 @@ facebook_username: dhirpal.shah #<-- your facebook username (the part after "htt
 # google_analytics: <-- your google analytics Tracking ID
 
 # By declaring these variables, you can include a button that links to an external website or to media.
-about_button: https://drive.google.com/file/d/1x_wFUwFSoFfOUpNlD9QLQBFR7drNjAEG/view?usp=sharing # the link
+about_button: https://drive.google.com/file/d/1zofufEmuF8cSt9BPCirEFpO2rKILadxB/view?usp=sharing # the link
 about_button_label: my resume # the label on the button
 
 # optional portfolio section ------------------------------------------
@@ -44,7 +44,7 @@ cta_button_label: email me # the label on the button
 [//]: # (write a bit about yourself here)
 ### hello!
 
-### i am **Dhirpal**, a rising fourth year at the **University of Chicago**. 
+### i am **Dhirpal**, a fourth year at the **University of Chicago**. 
 
 i’m completing the bs/ms program in [**computer science**](https://github.com/dhirpalshah/projects){:target="_blank"}, where i’ll be completing both my bachelor's and master's degree in 4 years along with a bachelors in  **economics**. i'm very passionate about **software engineering**, interested in the intersection between **tech and finance**, and love doing research in the field of **quantum computing**. i am also a goalkeeper on the **NCAA UChicago Men's Soccer Team**.
 

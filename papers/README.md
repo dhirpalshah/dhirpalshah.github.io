@@ -1,9 +1,17 @@
 # Publications
+## Circuit decompositions and scheduling for neutral atom devices with limited local addressability
+
+### Natalia Nottingham, Michael A. Perlin, Dhirpal Shah, Ryan White, Hannes Bernien, Frederic T. Chong, Jonathan M. Baker
+
+*IEEE International Conference on Quantum Computing and Engineering (QCE) 2024* https://doi.org/10.48550/arXiv.2307.14996
+
+Despite major ongoing advancements in neutral atom hardware technology, there remains limited work in systems-level software tailored to overcoming the challenges of neutral atom quantum computers. In particular, most current neutral atom architectures do not natively support local addressing of single-qubit rotations about an axis in the xy-plane of the Bloch sphere. Instead, these are executed via global beams applied simultaneously to all qubits. While previous neutral atom experimental work has used straightforward synthesis methods to convert short sequences of operations into this native gate set, these methods cannot be incorporated into a systems-level framework nor applied to entire circuits without imposing impractical amounts of serialization. Without sufficient compiler optimizations, decompositions involving global gates will significantly increase circuit depth, gate count, and accumulation of errors. No prior compiler work has addressed this, and adapting existing compilers to solve this problem is nontrivial. In this paper, we present an optimized compiler pipeline that translates an input circuit from an arbitrary gate set into a realistic neutral atom native gate set containing global gates. We focus on decomposition and scheduling passes that minimize the final circuit's global gate count and total global rotation amount. As we show, these costs contribute the most to the circuit's duration and overall error, relative to costs incurred by other gate types. Compared to the unoptimized version of our compiler pipeline, minimizing global gate costs gives up to 4.77x speedup in circuit duration. Compared to the closest prior existing work, we achieve up to 53.8x speedup. For large circuits, we observe a few orders of magnitude improvement in circuit fidelities.
+
 ## **YFlows: Systematic Dataflow Exploration and Code Generation for Efficient Neural Network Inference using SIMD Architectures on CPUs**
 
 ### Cyrus Zhou, Zack Hassman, Ruize Xu, Dhirpal Shah, and Yanjing Li
 
-*IEEE/ACM International Symposium on Code Generation and Optimization (CGO) - Under Revision, 2024*
+*IEEE/ACM International Symposium on Code Generation and Optimization (CGO)* https://doi.org/10.48550/arXiv.2310.00574
 
 We address the challenges associated with deploying neural networks on CPUs, with a particular focus on minimizing inference time while maintaining accuracy. Our novel approach is to use the dataflow (i.e., computation order) of a neural network to explore data reuse opportunitie using heuristic-guided analysis and a code generation framework, which enables exploration of various Single Instruction, Multiple Data (SIMD) implementations to achieve optimized neural network execution. Our results demonstrate that the dataflow that keeps outputs in SIMD registers while also maximizing both input and weight reuse consistently yields the best performance for a wide variety of inference workloads, achieving up to 2.7x speedup for 8-bit neural networks, and up to 4.8x speed up for binary neural networks, respectively, over the state-of-the-art SIMD implementations of neural networks today.
 
