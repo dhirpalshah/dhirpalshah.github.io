@@ -4,6 +4,8 @@
 work:
   - category: Experiences
     items:
+      - item: alphasense.html
+        image: /images/alphasense.jpeg
       - item: sponsu.html
         image: /images/sponsu.jpeg
       - item: infleqtion.html
