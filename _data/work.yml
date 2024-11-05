@@ -12,8 +12,6 @@ work:
         image: /images/infleqtion1.jpeg # optionally, include the file path for an image for each item
       - item: darwin.html
         image: /images/darwin.jpeg
-      - item: melio.html
-        image: /images/melio2.jpeg
   - category: Portfolio
     items:
       - item: sudoku.html
