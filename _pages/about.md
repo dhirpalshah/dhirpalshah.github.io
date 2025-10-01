@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-======
-I'm Dhirpal, a Computer Science PhD student at the University of Chicago advised by Fred Chong. I work at the intersection of quantum error correction, compiler architectures, and applications in biology. I am currently working on quantum-classical hybrid algorithms for biological problems like feature selection and previously helped design a compiler and gate-scheduling approach for neutral-atom systems. On the industry side, I’ve shipped features at AlphaSense, built quantum software tooling at Infleqtion (Superstaq), founded a student-creator marketplace (SponsU), and spent time evaluating early-stage companies as a venture analyst.
+Hi! I'm Dhirpal, a Computer Science PhD student at the University of Chicago advised by Fred Chong. I work at the intersection of quantum error correction, compiler architectures, and applications in biology. I am currently working on quantum-classical hybrid algorithms for biological problems like feature selection and previously helped design a compiler and gate-scheduling approach for neutral-atom systems. On the industry side, I’ve shipped features at AlphaSense, built quantum software tooling at Infleqtion (Superstaq), founded a student-creator marketplace (SponsU), and spent time evaluating early-stage companies as a venture analyst.
 
 Research interests
 ======
