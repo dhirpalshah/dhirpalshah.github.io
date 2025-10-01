@@ -18,7 +18,7 @@ Research interests
 
 Career aspirations
 ======
-I want to build dependable quantum–classical toolchains for biotech—bridging algorithms, compilers, and error mitigation to support tasks like robust feature discovery and predictive modeling. My goal is to translate research prototypes into usable workflows for scientists and clinicians while staying grounded in solid systems work.
+I want to build dependable quantum–classical toolchains for biotech -- bridging algorithms, compilers, and error mitigation to support tasks like robust feature discovery and predictive modeling. My goal is to translate research prototypes into usable workflows for scientists and clinicians while staying grounded in solid systems work.
 
 Miscellaneous
 ======
