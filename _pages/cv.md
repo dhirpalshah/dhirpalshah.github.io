@@ -17,6 +17,12 @@ Education
 * B.A. in Computer Science and B.A. in Economics, University of Chicago, 2021–2025  
   * Cumulative GPA: 3.8/4.0
 
+Publications and Preprints
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Work experience
 ======
 * Summer 2024: Software Engineering Intern
@@ -37,12 +43,6 @@ Skills
 * Quantum/ML: Qiskit, Cirq, PyTorch, scikit-learn, NumPy/Pandas
 * Platforms/Tools: Linux, AWS, Jupyter, Git
 * Languages: English, Mandarin, Hindi, Gujarati
-
-Publications and Preprints
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 <!-- Talks
 ======
