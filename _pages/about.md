@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dhirpal Shah"
+# title: "Dhirpal Shah"
 author_profile: true
 redirect_from:
   - /about/
